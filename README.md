@@ -1,6 +1,6 @@
 # AngularTodoList
 
-[screen](https://github.com/tiro308/AngularTodoList/blob/master/AngularTodoListScreen.PNG)
+![screen](https://github.com/tiro308/AngularTodoList/blob/master/AngularTodoListScreen.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
