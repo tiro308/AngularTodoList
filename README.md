@@ -2,6 +2,11 @@
 
 ![screen](https://github.com/tiro308/AngularTodoList/blob/master/AngularTodoListScreen.PNG)
 
+* uses https://jsonplaceholder.typicode.com/ API for receiving/editing ToDo's
+* uses **routing** for navigating between components
+* **responsive** behaviour using vanilla media queries
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
 ## Development server
